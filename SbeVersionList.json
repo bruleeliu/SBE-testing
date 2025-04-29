@@ -1,0 +1,14 @@
+{
+    "sbeversionlist":[
+        {
+            "version":"4.1.2504.110",
+            "filename":"HPE_STD_SBE_4.1.2504.110_XXXXX.zip",
+            "downloadUrl":"https://10.22.28.155/sbedownloads/files/HPE_STD_SBE_4.1.2504.110_XXXXX.zip"
+        },
+        {
+            "version":"4.1.2504.10",
+            "filename":"Standard_SBE_4.1.2504.10_Z7550-98014.zip",
+            "downloadUrl":"https://10.22.28.155/sbedownloads/files/Standard_SBE_4.1.2504.10_Z7550-98014.zip"
+        }
+    ]
+}
