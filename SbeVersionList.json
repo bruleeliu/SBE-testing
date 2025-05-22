@@ -1,13 +1,7 @@
 {
-    "type": "release",
     "lastreleasesbe": {
         "version": "4.1.2504.10",
         "filename": "HPE_STD_SBE_4.1.2504.10_Z7550-98014.zip",
         "downloadUrl": "https://h30302.www3.hpe.com/pubtest/HPE_STD_SBE_4.1.2504.10_Z7550-98014.zip?merchantId=PUB_DROPBOX"
-    },
-    "qasbe": {
-        "version": "4.1.2504.110",
-        "filename": "HPE_STD_SBE_4.1.2504.110_XXXXX.zip",
-        "downloadUrl": "https://10.22.28.155/sbedownloads/files/HPE_STD_SBE_4.1.2504.110_XXXXX.zip"
     }
 }
